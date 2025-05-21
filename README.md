@@ -13,7 +13,7 @@ Welcome to my GitHub space!
   <tr>
     <td align="center" width="25%">
       <a href="https://github.com/DocnasS/Ecole42Paris">
-        <img src="https://img.shields.io/badge/ECcole42Paris-00babc?style=for-the-badge&logo=42&logoColor=white" alt="Ecole42Paris"/><br>
+        <img src="https://img.shields.io/badge/Ecole42Paris-00babc?style=for-the-badge&logo=42&logoColor=white" alt="Ecole42Paris"/><br>
         <img src="https://img.shields.io/badge/Public-success?style=flat-square" alt="Public"/>
       </a>
       <p>My academic projects completed at Ecole42Paris</p>
